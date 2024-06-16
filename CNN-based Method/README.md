@@ -1,4 +1,4 @@
-# SPT-chromakey
+# CNN-chromakey
 weights - https://drive.google.com/drive/folders/1bWH4DC1T6RkY_wqR2iodjvWXQC6GXMnN
 
 Содержит файлы.
