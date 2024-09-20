@@ -8,3 +8,5 @@ The video consists of a sequence of frames, and the the video accuracy can be de
 If we consider the accuracy frame by frame, our method reaches an $F_1$ score equal to $0.67$. 
 If we consider the entire video to be fake in case there is one or more fake segments, then the $F_1$ score equal to $0.76$. 
 The proposed methods showed better results on the dataset we collected in comparison with existing methods for chromakey detection.
+
+More detailed readme for each approach are in the folders CNN-based Method and Transformer-based Method respectively
